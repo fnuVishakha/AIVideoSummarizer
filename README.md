@@ -31,10 +31,11 @@ This makes the project flexible and easy to test with different video inputs.
 
 ## How to Use
 1. Clone or download the repository.
-2. Open the project in VS Code or any preferred editor.
-3. Ensure all required dependencies are installed.
-4. Run the main file from the `src` folder.
-5. The project will use the video available in the `assets` folder.
+2. you will have to use the virtual venv environment. 
+3. Open the project in VS Code or any preferred editor.
+4. Ensure all required dependencies are installed.
+5. Run the main file from the `src` folder.
+6. The project will use the video available in the `assets` folder.
 
 ## Notes
 - The folder structure should be kept unchanged for proper execution.
