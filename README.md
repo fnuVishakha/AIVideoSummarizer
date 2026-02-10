@@ -34,9 +34,10 @@ This makes the project flexible and easy to test with different video inputs.
 2. you will have to use the virtual venv environment. 
 3. Open the project in VS Code or any preferred editor.
 4. Ensure all required dependencies are installed.
-5. you will have to create an assets folder and then add the video in the folder which you want to work on. 
-6. Run the main file from the `src` folder.
-7. The project will use the video available in the `assets` folder.
+5. you will have to create an assets folder and then add the video in the folder which you want to work on.
+6. before running the code you will have to activate the AWS bedrock otherwise you will receive an error message. 
+7. Run the main file from the `src` folder.
+8. The project will use the video available in the `assets` folder.
 
 ## Notes
 - The folder structure should be kept unchanged for proper execution.
